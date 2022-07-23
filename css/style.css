@@ -28,3 +28,6 @@ body{
 .footer{
     background-color: #0F298B !important;
 }
+.card{
+    box-shadow: 0px 0px 8px #ccc, 0px 0px 8px #ccc;
+}
